@@ -73,19 +73,21 @@ Smart-Home-Automation-Using-Sensors-and-IoT/
 - AI-based Smart Automation
 - Advanced Sensor Integration
 
+👨‍💻 Developed By
+
+
+Dhami Meghprit Kaur
+BCA – Silver Oak University
+Interested in Artificial Intelligence, IoT and Python.
+
+Aman Mori
+BCA – Silver Oak University
+Interested in Backend Development, Artificial Intelligence, IoT, Python, and Embedded Systems.
+
+
 ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-👨‍💻 Developed By
-
-
-Dhami Meghprit Kaur
-BCA – Silver Oak University
-Interested in Artificial Intelligence, IoT, Python, and Embedded Systems.
-
-Aman Mori
-BCA – Silver Oak University
-Interested in Backend Development, Artificial Intelligence, IoT, Python, and Embedded Systems.
