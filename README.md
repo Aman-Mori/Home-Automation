@@ -75,11 +75,6 @@ Smart-Home-Automation-Using-Sensors-and-IoT/
 
 👨‍💻 Developed By
 
-
-Dhami Meghprit Kaur
-BCA – Silver Oak University
-Interested in Artificial Intelligence, IoT and Python.
-
 Aman Mori
 BCA – Silver Oak University
 Interested in Backend Development, Artificial Intelligence, IoT, Python, and Embedded Systems.
